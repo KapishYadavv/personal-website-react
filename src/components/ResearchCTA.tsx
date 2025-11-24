@@ -6,7 +6,7 @@ const researchPapers = [
     title: 'Support and Resistance Reexamined: A Quantitative Analysis of Pattern Illusions in Random Market Data',
     meta: 'PDF · 5 pages',
     pdfLink:
-      '',
+      'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5552703',
     summaryLink: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5552703',
   },
   {
