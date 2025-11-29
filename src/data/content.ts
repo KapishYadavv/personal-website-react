@@ -92,4 +92,4 @@ export const contactInfo = {
   email: 'contact@kapishh.fun',
 }
 
-// i fucking hate this content file it hurts my eyes to look at it
+// to add: REMAINING PDFS AND LINKS (time? december 10 max) 
